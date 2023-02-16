@@ -1,0 +1,4 @@
+This is a  sample text which is used in the 1.js file.
+This is used to demonstrate the functioning of fs module.. 
+This is how you write to a file. Enjoy !
+Created on 1675487785088

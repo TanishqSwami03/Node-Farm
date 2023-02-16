@@ -1,0 +1,2 @@
+This is a  sample text which is used in the 1.js file.
+This is used to demonstrate the functioning of fs module.
