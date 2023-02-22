@@ -1,0 +1,25 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "1.js",
+  "scripts": {
+    "start" : "nodemon 8.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanishqSwami03/Node.js.git"
+  },
+  "author": "Tanishq Raj Swami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanishqSwami03/Node.js/issues"
+  },
+  "homepage": "https://github.com/TanishqSwami03/Node.js#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

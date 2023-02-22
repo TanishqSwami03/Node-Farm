@@ -4,7 +4,7 @@ const fs = require('fs');
 const url = require('url');
 const http = require('http');
 
-const replaceTemplate = (temp, product) =>{
+const replaceTemplate = (temp, product) =>{                        // temp here means template.
     let output = temp.replace('{%PRODUCTNAME%}', product.productName)
     output = output.replace('{%FROM%}', product.from);
     output = output.replace('{%IMAGE%}', product.image);
